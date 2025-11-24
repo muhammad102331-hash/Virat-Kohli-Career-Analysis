@@ -27,37 +27,56 @@ The Power BI dashboard includes the following insights:
 
 ---
 
-## 📂 **Files Included**
+🧠 Key Insights (Business-Style Summary)
+🔹 Career Totals
 
-| File Name | Description |
-|----------|-------------|
-| **Virat kohli.pbix** | Power BI dashboard (editable) |
-| **virat_kohli_all_formats.csv** | Clean dataset combining Test, ODI & T20I |
-| **Virat_kolhi_analysis.jpg** | Dashboard screenshot |
+Total Runs: 23,673+ across formats
+
+Total Innings: 619+
+
+Overall Average: 54+
+
+Overall Strike Rate: 80+ (across all formats combined)
+
+50s: 140+ | 100s: 75+
+
+Highest Score: 254*
+
+🔹 Format Comparison
+Format	Avg	Strike Rate	Centuries	Fifties	Highest
+Test	46.9	55.6	30	31	254
+ODI	57.9	93.3	51	75	183
+T20I	48.7	137.0	1	38	122
+
+📌 ODIs are Kohli’s strongest format — highest average, strike rate, and conversion rate.
+
+🔹 Yearly Trends
+
+Peak ODI era: 2011–2019
+
+Best T20I strike rate: 2017 (152.6 SR)
+
+Most Test runs: 2016 (1,215 runs)
+
+Recent decline after 2021 but still consistent
+
+🔹 Boundaries Contribution
+
+Total 4s: 1,028+
+
+Total 6s: 300+
+
+Maximum boundaries scored in:
+
+ODI (127 fours in 2011)
+
+T20I (70 fours in 2016)
+
+Test (144 fours in 2018)
 
 ---
 
-## 📝 **Dataset Description**
 
-The CSV contains the following fields:
-
-- `Format` (Test / ODI / T20I)  
-- `Year`  
-- `Innings`  
-- `Runs`  
-- `Balls`  
-- `Avg`  
-- `SR`  
-- `HS`  
-- `50`, `100`  
-- `4s`, `6s`  
-- `Dot%`  
-
-All data was manually cleaned and prepared for reporting.
-
----
-
-## 🚀 **How to Use This Project**
 
 ### **1. Clone the Repository**
 ```bash
