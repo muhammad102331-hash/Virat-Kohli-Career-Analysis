@@ -27,22 +27,22 @@ The Power BI dashboard includes the following insights:
 
 ---
 
-🧠 Key Insights (Business-Style Summary)
+##🧠 Key Insights (Business-Style Summary)
 🔹 Career Totals
 
-Total Runs: 23,673+ across formats
+-Total Runs: 23,673+ across formats
 
-Total Innings: 619+
+-Total Innings: 619+
 
-Overall Average: 54+
+-Overall Average: 54+
 
-Overall Strike Rate: 80+ (across all formats combined)
+-Overall Strike Rate: 80+ (across all formats combined)
 
-50s: 140+ | 100s: 75+
+-50s: 140+ | 100s: 75+
 
-Highest Score: 254*
+-Highest Score: 254*
 
-🔹 Format Comparison
+##🔹 Format Comparison
 Format	Avg	Strike Rate	Centuries	Fifties	Highest
 Test	46.9	55.6	30	31	254
 ODI	57.9	93.3	51	75	183
